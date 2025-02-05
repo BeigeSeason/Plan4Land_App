@@ -4,7 +4,7 @@
     "slug": "plan4land",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/plan4landicon1024.png",
+    "icon": "./assets/drawable-xhdpi/plan4landlogo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
