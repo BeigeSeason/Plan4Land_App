@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "plan4land",
-    "slug": "plan4land",
+    "name": "expo-total-prj-250205",
+    "slug": "expo-total-prj-250205",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/drawable-xhdpi/plan4landlogo.png",
+    "icon": "./assets/plan4land_slash.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/drawable-xhdpi/plan4landlogo.png",
+      "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,25 +16,13 @@
       "supportsTablet": true
     },
     "android": {
-      "permissions": [
-        "INTERNET",
-        "ACCESS_NETWORK_STATE"
-      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "store.prj.plan4land",
-      "versionCode": 1
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "2545e774-7b91-40e4-a467-70abdee5b091"
-      }
-    },
-    "owner": "lil_johnny"
+    }
   }
 }
