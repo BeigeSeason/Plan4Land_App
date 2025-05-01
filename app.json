@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/plan4landicon1024.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.lil_johnny.plan4land"
